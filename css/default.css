@@ -6,6 +6,11 @@
     padding: 0;
   }
   
+body{
+    background-color: gray;
+    font-family: 'Kosugi', sans-serif;
+}
+
 /* 640px以下 */
 @media screen and (max-width:640px){
    body{
